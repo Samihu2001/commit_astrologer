@@ -1,0 +1,1 @@
+# This file makes the 'commit_astrologer' directory a Python package.
